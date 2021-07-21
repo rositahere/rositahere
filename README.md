@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626883760/greet_rg7grk.png">
+<img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626890991/greet_a35qx5.png">
 
 • <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626880893/gears_hi2nk8.png" height="24">&#160;&#160;At the moment, I'm working on a <strong>Spotify</strong> search app
 
