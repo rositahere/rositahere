@@ -9,10 +9,10 @@
 • <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626881628/ideas_abfqea.png" height="26">&#160;Ask me about creating cool <strong>logos</strong>:
 <div>
   <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626873318/amble_druplz.png" width="190">
-  <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1623796487/1200x630_logo_link_image_zknhbu.jpg" width="200">
+  <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1623796487/1200x630_logo_link_image_zknhbu.jpg" width="190">
   <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626872337/flockfavicon_xozvvy.png" width="98">
   <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1625693621/logo_ky0mb2.png" width="200">
-  <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626872323/RASTlogo_etba3p.png" width="210">
+  <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626872323/RASTlogo_etba3p.png" width="200">
 </div><br>
 
 <h3>These are some of the languages and tools I like to use:</h3>
