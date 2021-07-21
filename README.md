@@ -4,7 +4,7 @@
 
 • <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626881052/grow_uvp9tw.png" height="24">&#160;&#160;I'm currently learning <strong>Python</strong>
 
-• <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626882009/Screen_Shot_2021-07-21_at_4.42.12_PM_brqjxc.png" height="24">&#160;&#160;I'm looking to collaborate on projects that involve <strong>sustainability</strong> and <strong>fintech</strong>
+• <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626890677/puzzle_ybvb32.png" height="24">&#160;&#160;I'm looking to collaborate on projects that involve <strong>sustainability</strong> and <strong>fintech</strong>
 
 • <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626881628/ideas_abfqea.png" height="26">&#160;Ask me about creating cool <strong>logos</strong>:
 <div>
