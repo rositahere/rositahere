@@ -1,7 +1,5 @@
 <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626890991/greet_a35qx5.png"><br><br><br>
 
-• <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626880893/gears_hi2nk8.png" height="24">&#160;&#160;At the moment, I'm working on a <strong>Spotify</strong> search app
-
 • <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626881052/grow_uvp9tw.png" height="24">&#160;&#160;I'm currently learning <strong>Python</strong>
 
 • <img src="https://res.cloudinary.com/djiwfu4hh/image/upload/v1626890677/puzzle_ybvb32.png" height="24">&#160;&#160;I'm looking to collaborate on projects that involve <strong>sustainability</strong>
